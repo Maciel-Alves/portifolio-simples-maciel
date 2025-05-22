@@ -2,11 +2,51 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
 body {
-    background-color: antiquewhite;
+    background-color: #f5f5f5;
     padding: 15px;
     margin: 20px;
 
+}
+.Habilidade1 {
+    color: red;
+
+}
+.Habilidade2 {
+    color: rgb(61, 8, 8);
+
+}
+.Habilidade3 { 
+    color: rgb(49, 98, 233);
+
+}
+section {
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    
+}
+.bio {
+    padding: 20em,0,0,0;
+    font-size: 1em;
+    margin: 1rem;
+
+
+
+}
+h1 { 
+    background-color: #809dbb;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+
+}
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0,3rem;
+    text-align: center;
 }
